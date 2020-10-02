@@ -1,0 +1,52 @@
+/*BEGIN PS4 Controller Styling*/
+
+.controller.ds4{
+  background: url(https://i.imgur.com/PprWXlc.png);
+}
+
+.ds4 .face{
+  background: url(https://i.imgur.com/Wui3Y4e.png);
+}
+
+.ds4 .stick{
+  background: url(https://i.imgur.com/RHX6ogL.png);
+}
+
+.ds4 .bumper{
+  background: url(https://i.imgur.com/6uKTM8C.png);
+}
+
+.ds4 .trigger{
+  background: url(https://i.imgur.com/0XioYhi.png);
+}
+
+.ds4 .start{
+  background: url(https://i.imgur.com/mDckPqj.png);
+}
+.ds4 .back{
+  background: url();
+}
+
+.ds4 .button{
+  background: url(https://i.imgur.com/PI4TvCX.png);
+}
+
+.ds4 .b {
+    background-position: -57px 0;
+}
+
+.ds4 .x {
+    background-position: -113px 0;
+}
+
+.ds4 .y {
+    background-position: 55px 0;
+}
+
+.ds4 .touchpad.pressed {
+    background: url(https://i.imgur.com/6yYrbr6.png) no-repeat center;
+}
+
+.ds4 .meta.pressed {
+    background: url(https://i.imgur.com/PO5O3va.png) no-repeat center;
+}
