@@ -9,11 +9,13 @@
 /* CSS override to hide name & insert logo: */
 .dQMSfO{
 	display: none !important;
-	background-image: url("https://i.imgur.com/zrdcH1y.png" !important;
+}
+
+/*
+background-image: url("https://i.imgur.com/zrdcH1y.png" !important;
 	/* the background image doesn't want to work in Chrome inspect - unsure why
 	   this means I haven't been able to test how this looks -- will require some play
 	   before this part is included */
-}
 
 
 /* CSS override to hide contact: * /
