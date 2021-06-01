@@ -1,0 +1,25 @@
+/* https://tfinstall1cus.blob.core.windows.net/tfinstall/Widget.html */
+
+/* CSS override to make full screen widget: */
+#freshworks-frame-wrapper{
+	width: calc(100% - 60px) !important;
+	max-height: calc(100% - 30px) !important;
+}
+
+/* CSS override to hide name & insert logo: */
+.dQMSfO{
+	display: none !important;
+	background-image: url("https://i.imgur.com/zrdcH1y.png" !important;
+	/* the background image doesn't want to work in Chrome inspect - unsure why
+	   this means I haven't been able to test how this looks -- will require some play
+	   before this part is included */
+}
+
+
+/* CSS override to hide contact: */
+????
+
+/* CSS override to hide KB: */
+.fkDKiP.main-page{
+	display: none !important;
+}
